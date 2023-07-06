@@ -1,0 +1,32 @@
+body{
+    margin: 10px;
+    overflow: hidden;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+a{
+    text-decoration: none;
+    color: #00B9F1;
+    font-weight: bold;
+}
+.row{
+    margin-bottom: 10px;
+}
+h5{
+    font-weight: bold;
+}
+h6{
+    font-weight: bold;
+}
+span{
+    color: grey;
+}
+.col-4{
+    text-align: right;
+}
+.col-3{
+    text-align: right;
+}
+
